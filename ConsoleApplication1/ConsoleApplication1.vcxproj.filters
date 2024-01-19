@@ -28,6 +28,9 @@
     <Filter Include="Файлы заголовков\TwoDimArr">
       <UniqueIdentifier>{66b394a5-2b7e-4a36-81d8-5ef253e90acd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Файлы заголовков\OneDimArr">
+      <UniqueIdentifier>{61003809-413e-45f8-974d-fbc95df11a7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MainMenuofOnedim.cpp">
@@ -94,6 +97,33 @@
     </ClInclude>
     <ClInclude Include="TwoDimArr.h">
       <Filter>Файлы заголовков\TwoDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="OneDimArr.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="minEl.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckArr2.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckArr3.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="Convertarr1.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="findMinIndexes.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="NumofMinEl.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="sum.h">
+      <Filter>Файлы заголовков\OneDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="Templates2.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

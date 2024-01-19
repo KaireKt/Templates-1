@@ -18,7 +18,7 @@ int main()
 		{
 		case 1:
 			cout << "Performing the first operation..." << endl;
-			onedim();
+			Menu1ofValue();
 			cout << "Enter the operation you need" << endl
 				<< "1 - Working with a one-dimensional array" << endl
 				<< "2 - Working with a square matrix" << endl

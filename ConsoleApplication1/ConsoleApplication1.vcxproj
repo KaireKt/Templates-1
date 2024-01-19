@@ -144,11 +144,20 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbsSum.h" />
+    <ClInclude Include="CheckArr2.h" />
+    <ClInclude Include="CheckArr3.h" />
+    <ClInclude Include="Convertarr1.h" />
+    <ClInclude Include="findMinIndexes.h" />
     <ClInclude Include="InOut.h" />
     <ClInclude Include="libraries.h" />
     <ClInclude Include="LocalMin.h" />
+    <ClInclude Include="minEl.h" />
+    <ClInclude Include="NumofMinEl.h" />
+    <ClInclude Include="OneDimArr.h" />
     <ClInclude Include="prototypes.h" />
+    <ClInclude Include="sum.h" />
     <ClInclude Include="Templates.h" />
+    <ClInclude Include="Templates2.h" />
     <ClInclude Include="TwoDimArr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
