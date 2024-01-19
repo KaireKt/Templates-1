@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\OneDimArr">
+      <UniqueIdentifier>{cb3a3d5b-77ba-443e-9b0d-26efaf20a400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\TwoDimArr">
+      <UniqueIdentifier>{d405178e-0cd1-48d9-bdb5-a8d35b60e76f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\OneDimArr">
+      <UniqueIdentifier>{1033209b-f654-41e0-8165-1c02ac2d9224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\CharArr">
+      <UniqueIdentifier>{66da8155-ec37-4329-bdaa-e0676bc74a33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\TwoDimArr">
+      <UniqueIdentifier>{66b394a5-2b7e-4a36-81d8-5ef253e90acd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainMenuofOnedim.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="minEL.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="sum.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="minEL1.cpp">
+      <Filter>Исходные файлы\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuofCharAr.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="InOut.cpp">
+      <Filter>Файлы ресурсов\TwoDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalMin.cpp">
+      <Filter>Файлы ресурсов\TwoDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuofTwodim.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="NumofMinEl.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckArr2.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckArr3.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="findMinIndexes.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="Convertarr1.cpp">
+      <Filter>Файлы ресурсов\OneDimArr</Filter>
+    </ClCompile>
+    <ClCompile Include="mainMenu.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libraries.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Templates.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="AbsSum.h">
+      <Filter>Файлы заголовков\TwoDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalMin.h">
+      <Filter>Файлы заголовков\TwoDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="InOut.h">
+      <Filter>Файлы заголовков\TwoDimArr</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoDimArr.h">
+      <Filter>Файлы заголовков\TwoDimArr</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
